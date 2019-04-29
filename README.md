@@ -12,4 +12,4 @@ The repository contains the following folders:
 
 The [.gitignore](/.gitignore) file specify which files and folders to not upload to and track with github.
 
-The [LICENSE](/.LICENSE) file specify under which constraints the code in this repository can be used.
+The [LICENSE](/LICENSE) file specify under which constraints the code in this repository can be used.
