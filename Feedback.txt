@@ -5,14 +5,14 @@ GROUP_MEMBER_A provided peer-feedback to:
 3. Model project: GROUP - LINK TO GITHUB ISSUE
 4. Model project: GROUP - LINK TO GITHUB ISSUE
 
-GROUP_MEMBER_C provided peer-feedback to:
+GROUP_MEMBER_B provided peer-feedback to:
 
 1. Data project: GROUP - LINK TO GITHUB ISSUE
 2. Data project: GROUP - LINK TO GITHUB ISSUE
 3. Model project: GROUP - LINK TO GITHUB ISSUE
 4. Model project: GROUP - LINK TO GITHUB ISSUE
 
-GROUP_MEMBER_D provided peer-feedback to:
+GROUP_MEMBER_C provided peer-feedback to:
 
 1. Data project: GROUP - LINK TO GITHUB ISSUE
 2. Data project: GROUP - LINK TO GITHUB ISSUE
