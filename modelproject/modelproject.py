@@ -1,13 +1,17 @@
 from scipy import optimize
 
 def solve_for_ss(s,g,n,alpha,delta):
-    """ delete all non-municipalities
+    """ solve for the steady state level of capital
 
     Args:
-        df (pd.DataFrame): pandas dataframe with the column "municipality" as a string
+        s (float): saving rate
+        g (float): technological growth rate
+        n (float): population growth rate
+        alpha (float): cobb-douglas parameter
+        delta (float): capital depreciation rate 
 
     Returns:
-        df (pd.DataFrame): pandas dataframe
+        result (RootResults): the solution represented as a RootResults object
 
     """ 
     
@@ -17,4 +21,5 @@ def solve_for_ss(s,g,n,alpha,delta):
 
     #. b. call root finder
     result = optimize.root_scalar(obj_kss,bracket=[0.1,100],method='bisect')
+    
     return result
