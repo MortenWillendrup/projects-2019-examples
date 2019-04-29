@@ -1,14 +1,14 @@
-# Dataproject
+# Data analysis project
 
-Our project is titled PROJECT TITLE and is about EXPLAIN.
+Our project is titled **PROJECT TITLE** and is about EXPLAIN.
 
-The results of the project can be seen from running [dataproject.ibynb](/dataproject.ibynb).
+The **results** of the project can be seen from running [dataproject.ipynb](/dataproject.ipynb).
 
-This loades two datasets:
+This **loades two datasets**:
 
 * INDKP101.xlsx downloaded from statistikbanekn.dk/INDKP101
 * RAS200.xlsx downloaded from statistikbanekn.dk/RAS200
 
-Apart from a standard Aanconda Python 3 installation the project requires the following installations:
+**Dependencies:** Apart from a standard Aanconda Python 3 installation the project requires the following installations:
 
 ``pip install matplotlib-venn``
